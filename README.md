@@ -1,4 +1,5 @@
 # Passion-Project
-Basically, the code for all my passion projects will be uploaded here
+All code for my drone/RC Car (passion) projects will be uploaded here
 
-When I have the time, I'll edit and format everything properly so that all the files are in one place and shit like that
+Built a PCB that will technically fit on the car but may have to change the placement and such. 
+
